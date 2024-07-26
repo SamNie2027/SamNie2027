@@ -18,13 +18,14 @@ https://github.com/Oasis-NEU/s24-group16
 Started as a Spring 2024 Oasis project, this app is a better alternative to Canvas for connecting with other people in the same class as you.
 
 
+
 <ins>My contributions:</ins>
 
-Led ideation meetings to draft concept and user flow 
+ - Led ideation meetings to draft concept and user flow 
 
-Designed front-end using Figma, implemented designs with HTML, CSS, and Bootstrap 
+ - Designed front-end using Figma, implemented designs with HTML, CSS, and Bootstrap 
 
-Developed back-end with user login and sessions and database editing using PHP and SQL
+ - Developed back-end with user login and sessions and database editing using PHP and SQL
 
 
 
