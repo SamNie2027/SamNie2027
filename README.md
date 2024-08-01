@@ -20,7 +20,7 @@ this app is a better alternative to Canvas for connecting with other people in t
 
 
 
-<ins>My contributions (full-stack):</ins>
+<ins>My contributions as project manager and full-stack developer:</ins>
 
  - Led ideation meetings to draft concept and user flow 
 
