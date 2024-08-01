@@ -15,7 +15,7 @@ Zealous for knowledge to evolve leadership and technical skills.
 
 https://github.com/Oasis-NEU/s24-group16
 
-Started as a Spring 2024 Oasis project, turned into more of a personal project due to teammates' other commitments, 
+Started as a Spring 2024 Oasis project, 
 this app is a better alternative to Canvas for connecting with other people in the same class as you.
 
 
