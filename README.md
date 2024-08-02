@@ -28,6 +28,8 @@ this app is a better alternative to Canvas for connecting with other people in t
 
  - Developed back-end with user login and sessions and database editing using PHP and SQL
 
+ - Dynamic web pages and user feedback using PHP in creative ways
+
 
 
 
