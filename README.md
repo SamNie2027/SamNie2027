@@ -15,10 +15,9 @@ Zealous for knowledge to evolve leadership and technical skills.
 
 https://github.com/Oasis-NEU/s24-group16
 
-Started as a Spring 2024 Oasis project, 
-this app is a better alternative to Canvas for connecting with other people in the same class as you.
+A better alternative to Canvas for connecting with other people in the same class as you!
 
-
+This app started as a Oasis project (semester-long mentored team project) where we made some progress, unfortunately did not reach minimum viable product at this point. During the summer I turned it into my personal project after my teammates got busy and completed to MVP. 
 
 <ins>My contributions as project manager and full-stack developer:</ins>
 
