@@ -16,7 +16,7 @@ Zealous for knowledge to evolve leadership and technical skills.
 https://github.com/Oasis-NEU/s24-group16
 
 Demo: https://youtu.be/jW2umXdV-qs
-Code Overview (pre-Javascript overhaul): https://youtu.be/MZC5IGTHFhk
+Code Overview: https://youtu.be/UOTxTe2UXdA
 
 A better alternative to Canvas for connecting with other people in the same class as you!
 
