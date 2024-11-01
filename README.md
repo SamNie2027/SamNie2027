@@ -11,7 +11,7 @@ Zealous for knowledge to evolve leadership and technical skills.
 ## Main Projects
 
 
-### Study Buddy Networking Web App
+### Study Buddy Networking Web App (Jan 2024 - Sept 2024)
 
 https://github.com/Oasis-NEU/s24-group16
 
