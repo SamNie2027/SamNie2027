@@ -16,7 +16,7 @@ https://github.com/Code-4-Community/shelter-link
 
 The goal of Project ShelterLink is to develop a user-friendly, map-based application to help LGBTQ+ youth locate winter shelters in Boston.
 
-Technologies: ReactJS, ExpressJS, NodeJS, JEST
+Technologies: React Native, NodeJS, JEST
 
 <ins>My contributions as a full-stack developer:</ins>
 
