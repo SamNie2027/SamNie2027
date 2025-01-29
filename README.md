@@ -1,7 +1,7 @@
 # Sam Nie
 
 ## About
-Instructor @ CodeAdvantage 
+Quality Assurance Tester @ New England Journal of Medicine | Instructor @ CodeAdvantage 
 
 Undergraduate Sophomore pursuing Computer Science @ Northeastern University 
 
