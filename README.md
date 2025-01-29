@@ -10,13 +10,25 @@ Zealous for knowledge to evolve leadership and technical skills.
 
 ## Main Projects
 
+### Shelter Link (Jan 2025 - Present)
+
+[https://](https://github.com/Code-4-Community/shelter-link)
+
+The goal of Project ShelterLink is to develop a user-friendly, map-based application to help LGBTQ+ youth locate winter shelters in Boston.
+
+<ins>My contributions as a full-stack developer:</ins>
+
+- Added documentation for front-end types and discussed further type iterations
+- Implemented and applied custom fonts
+- Changed components to match high fidelity design
+
 
 ### Study Buddy Networking Web App (Jan 2024 - Sept 2024)
 
-https://github.com/Oasis-NEU/s24-group16
+[https://](https://github.com/Oasis-NEU/s24-group16)
 
-Demo: https://youtu.be/jW2umXdV-qs
-Code Overview: https://youtu.be/UOTxTe2UXdA
+Demo: [https://](https://youtu.be/jW2umXdV-qs)
+Code Overview: [https://](https://youtu.be/UOTxTe2UXdA)
 
 A better alternative to Canvas for connecting with other people in the same class as you!
 
