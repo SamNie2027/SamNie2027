@@ -3,7 +3,7 @@
 ## About
 Quality Assurance Tester @ New England Journal of Medicine | Instructor @ CodeAdvantage 
 
-Undergraduate Sophomore pursuing Computer Science @ Northeastern University 
+Undergraduate Sophomore pursuing a B.S. in Computer Science and Cognitive Psychology @ Northeastern University 
 
 Zealous for knowledge to evolve leadership and technical skills.
 
