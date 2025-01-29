@@ -16,7 +16,7 @@ https://github.com/Code-4-Community/shelter-link
 
 The goal of Project ShelterLink is to develop a user-friendly, map-based application to help LGBTQ+ youth locate winter shelters in Boston.
 
-Technologies & Languages: ReactJS, ExpressJS, NodeJS, JEST
+Technologies: ReactJS, ExpressJS, NodeJS, JEST
 
 <ins>My contributions as a full-stack developer:</ins>
 
@@ -34,7 +34,7 @@ Code Overview: https://youtu.be/UOTxTe2UXdA
 
 A better alternative to Canvas for connecting with other people in the same class as you!
 
-Technologies & Languages: HTML, CSS, Javascript, Bootstrap 5, SQL (mySQL), PHP 
+Technologies: HTML, CSS, Javascript, Bootstrap 5, SQL (mySQL), PHP 
 
 This app started as a Oasis project (semester-long mentored team project) where we made some progress, unfortunately did not reach minimum viable product at this point. During the summer I turned it into my personal project after my teammates got busy and completed the MVP. 
 
