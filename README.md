@@ -11,6 +11,7 @@ Zealous for knowledge to evolve leadership and technical skills.
 ## Main Projects
 
 ### TattleTell - InnovAIte Finalist (Feb 2025)
+
 https://github.com/SamNie2027/InnovAIte2025
 
 TattleTell is an app and API where the local community can report maintenance issues with a click of a button, reducing response time of maintenance issues and enabling instant recognition using Machine Learning. 
@@ -28,7 +29,7 @@ https://github.com/Code-4-Community/shelter-link
 
 The goal of Project ShelterLink is to develop a user-friendly, map-based application to help LGBTQ+ youth locate winter shelters in Boston.
 
-Technologies: React Native, ExpressJS, NodeJS, JEST
+Technologies: React Native, ExpressJS, DynamoDB, NodeJS, JEST
 
 <ins>My contributions as a full-stack developer:</ins>
 
@@ -36,6 +37,17 @@ Technologies: React Native, ExpressJS, NodeJS, JEST
 - Implemented and applied custom fonts
 - Changed components to match high fidelity design
 
+### Husky Overflow (Oct 2024 - Dec 2024)
+(repository is private)
+
+A stack overflow copy to add features to for Fundamentals of Software Engineering
+
+Technologies: ReactJS, ExpressJS, NodeJS, JEST, MongoDB, Bootstrap
+
+<ins>My contributions as a full-stack developer and tester:</ins>
+- Manually tested functionality and UI on Windows, MacOS, Chrome, Edge, Firefox, and Safari 
+- Added React components for user profiles, integrated Auth0 with login and signup pages 
+- Added routes with Express, manipulated user information with MongoDB, unit tested with JEST 
 
 ### Study Buddy Networking Web App (Jan 2024 - Sept 2024)
 
