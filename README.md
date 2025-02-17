@@ -38,7 +38,7 @@ Technologies: React Native, ExpressJS, DynamoDB, NodeJS, JEST
 - Changed components to match high fidelity design
 
 ### Husky Overflow (Oct 2024 - Dec 2024)
-(repository is private)
+(no link as this repository is private)
 
 A stack overflow copy to add features to for Fundamentals of Software Engineering
 
