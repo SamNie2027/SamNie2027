@@ -10,13 +10,25 @@ Zealous for knowledge to evolve leadership and technical skills.
 
 ## Main Projects
 
-### Shelter Link (Jan 2025 - Present)
+### TattleTell - InnovAIte Finalist (Feb 2025)
+https://github.com/SamNie2027/InnovAIte2025
+
+TattleTell is an app and API where the local community can report maintenance issues with a click of a button, reducing response time of maintenance issues and enabling instant recognition using Machine Learning. 
+
+Technologies: React Native, ExpressJS, Python Flask
+
+<ins>My contributions as a full-stack app and API developer:</ins>
+- Developed responsive app to take pictures and convert into files to send up application infrastructure
+- Created and tested all endpoints, including the frontend, backend, and AI API
+- Quickly explained concepts to team members unfamiliar with the tech stack
+
+### Shelter Link - Code4Community (Jan 2025 - Present)
 
 https://github.com/Code-4-Community/shelter-link
 
 The goal of Project ShelterLink is to develop a user-friendly, map-based application to help LGBTQ+ youth locate winter shelters in Boston.
 
-Technologies: React Native, NodeJS, JEST
+Technologies: React Native, ExpressJS, NodeJS, JEST
 
 <ins>My contributions as a full-stack developer:</ins>
 
