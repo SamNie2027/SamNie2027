@@ -1,11 +1,17 @@
 # Sam Nie
 
 ## About
-Quality Assurance Tester @ New England Journal of Medicine | Instructor @ CodeAdvantage 
+Quality Assurance Tester @ New England Journal of Medicine | Code4Community Developer | Certified Scrum Master and AWS Cloud Practitioner 
 
 Undergraduate Sophomore pursuing a B.S. in Computer Science and Cognitive Psychology @ Northeastern University 
 
 Zealous for knowledge to evolve leadership and technical skills.
+
+**Programming Languages**: Java, HTML, CSS, Typescript, JavaScript, SQL, Python, PHP 
+
+**Technologies**:  ReactJS, React Native, ExpressJS, NodeJS, DynamoDB, JEST, JUnit, Postman, Linux, Selenium, Cypress AWS 
+
+**Certifications**: AWS Cloud Practitioner (Amazon Web Services), Professional Scrum Master I (Scrum.org), Lead 360 Blueprint (Northeastern University) 
 
 
 ## Main Projects
@@ -36,6 +42,11 @@ Technologies: React Native, ExpressJS, DynamoDB, NodeJS, JEST
 - Added documentation for front-end types and discussed further type iterations
 - Implemented and applied custom fonts
 - Changed components to match high fidelity design
+- Collaborating to create a mobile application to help homeless LGBTQ+ youth locate winter shelters
+- Developed full-stack on React-Native components and Express endpoints, including code reviews
+- Utilized **Postman** to cover 100% of backend endpoints, created Github Actions to incorporate tests
+- Tested backend using **JEST** with 98% Stryker coverage, incorporated into Github Actions CI/CD
+- Created **Cypress** tests for end-to-end user flows, enabling automated UI checks in CI/CD 
 
 ### Husky Overflow (Oct 2024 - Dec 2024)
 (no link as this repository is private)
