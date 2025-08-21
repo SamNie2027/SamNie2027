@@ -1,7 +1,7 @@
 # Sam Nie
 
 ## About
-Developer @ Code4Community | RTC member | Certified AWS Developer Associate and Professional Scrum Master | CS and Cognitive Psych at Northeastern University
+Developer @ Code4Community | RTC member | AWS Certified Developer Associate and Professional Scrum Master | CS and Cognitive Psych at Northeastern University
 
 Undergraduate Junior pursuing a B.S. in Computer Science and Cognitive Psychology @ Northeastern University 
 
