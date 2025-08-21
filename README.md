@@ -1,9 +1,9 @@
 # Sam Nie
 
 ## About
-Quality Assurance Tester @ New England Journal of Medicine | Code4Community Developer | Certified Scrum Master and AWS Cloud Practitioner 
+Developer @ Code4Community | RTC member | Certified AWS Developer Associate and Professional Scrum Master | CS and Cognitive Psych at Northeastern University
 
-Undergraduate Sophomore pursuing a B.S. in Computer Science and Cognitive Psychology @ Northeastern University 
+Undergraduate Junior pursuing a B.S. in Computer Science and Cognitive Psychology @ Northeastern University 
 
 Zealous for knowledge to evolve leadership and technical skills.
 
