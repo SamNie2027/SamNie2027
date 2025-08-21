@@ -11,7 +11,7 @@ Zealous for knowledge to evolve leadership and technical skills.
 
 **Technologies**:  ReactJS, React Native, ExpressJS, NodeJS, DynamoDB, JEST, JUnit, Postman, Linux, Selenium, Cypress AWS 
 
-**Certifications**: AWS Cloud Practitioner (Amazon Web Services), Professional Scrum Master I (Scrum.org), Lead 360 Blueprint (Northeastern University) 
+**Certifications**: AWS Developer Associate (Amazon Web Services), AWS Cloud Practitioner (Amazon Web Services), Professional Scrum Master I (Scrum.org), Lead 360 Blueprint (Northeastern University) 
 
 
 ## Main Projects
