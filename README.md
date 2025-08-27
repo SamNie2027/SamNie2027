@@ -44,6 +44,7 @@ Technologies: React Native, ExpressJS, DynamoDB, NodeJS, JEST
 - Changed components to match high fidelity design
 - Collaborating to create a mobile application to help homeless LGBTQ+ youth locate winter shelters
 - Developed full-stack on React-Native components and Express endpoints, including code reviews
+- Working with AWS cloud and DynamoDB database
 - Utilized **Postman** to cover 100% of backend endpoints, created Github Actions to incorporate tests
 - Tested backend using **JEST** with 98% Stryker coverage, incorporated into Github Actions CI/CD
 - Created **Cypress** tests for end-to-end user flows, enabling automated UI checks in CI/CD 
