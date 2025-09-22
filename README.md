@@ -16,7 +16,7 @@ Zealous for knowledge to evolve leadership and technical skills.
 **Certifications**: AWS Developer Associate (Amazon Web Services), AWS Cloud Practitioner (Amazon Web Services), Professional Scrum Master I (Scrum.org), Lead 360 Blueprint (Northeastern University) 
 
 
-## Main Projects
+## Projects
 
 ### Fenway Community Center Donation and Admin Portal - Code4Community (Sept 2025 - Present)
 
