@@ -18,6 +18,14 @@ Zealous for knowledge to evolve leadership and technical skills.
 
 ## Main Projects
 
+### Fenway Community Center Donation and Admin Portal - Code4Community (Sept 2025 - Present)
+
+https://github.com/Code-4-Community/fcc
+
+We are developing a new donation page and admin portal for Fenway Community Center to improve donor retention and reuptake.
+
+Technologies: ReactJS, ExpressJS, NodeJS, PostgreSQL
+
 ### TattleTell - InnovAIte Finalist (Feb 2025)
 
 https://github.com/SamNie2027/InnovAIte2025
@@ -31,13 +39,13 @@ Technologies: React Native, ExpressJS, Python Flask
 - Created and tested all endpoints, including the frontend, backend, and AI API
 - Quickly explained concepts to team members unfamiliar with the tech stack
 
-### Shelter Link - Code4Community (Jan 2025 - Present)
+### Shelter Link - Code4Community (Jan 2025 - June 2025)
 
 https://github.com/Code-4-Community/shelter-link
 
 The goal of Project ShelterLink is to develop a user-friendly, map-based application to help LGBTQ+ youth locate winter shelters in Boston.
 
-Technologies: React Native, ExpressJS, DynamoDB, NodeJS, JEST
+Technologies: React Native, ExpressJS, AWS DynamoDB, NodeJS, JEST
 
 <ins>My contributions as a full-stack developer:</ins>
 
@@ -47,7 +55,7 @@ Technologies: React Native, ExpressJS, DynamoDB, NodeJS, JEST
 - Collaborating to create a mobile application to help homeless LGBTQ+ youth locate winter shelters
 - Developed full-stack on React-Native components and Express endpoints, including code reviews
 - Working with AWS cloud and DynamoDB database
-- Utilized **Postman** to cover 100% of backend endpoints, created Github Actions to incorporate tests
+- Utilized **Postman** to cover 100% of backend endpoints, created Github Actions CI/CD to incorporate tests
 - Tested backend using **JEST** with 98% Stryker coverage, incorporated into Github Actions CI/CD
 - Created **Cypress** tests for end-to-end user flows, enabling automated UI checks in CI/CD 
 
