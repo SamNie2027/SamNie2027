@@ -5,6 +5,8 @@ Developer @ Code4Community | RTC member | AWS Certified Developer Associate and 
 
 Undergraduate Junior pursuing a B.S. in Computer Science and Cognitive Psychology @ Northeastern University 
 
+Former Quality Assurance Tester Co-Op at the Massachusetts Medical Society (New England Journal of Medicine)
+
 Zealous for knowledge to evolve leadership and technical skills.
 
 **Programming Languages**: Java, HTML, CSS, Typescript, JavaScript, SQL, Python, PHP 
