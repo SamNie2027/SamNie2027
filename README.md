@@ -11,7 +11,7 @@ Zealous for knowledge to evolve leadership and technical skills.
 
 **Programming Languages**: Java, HTML, CSS, Typescript, JavaScript, SQL, Python, PHP 
 
-**Technologies**:  ReactJS, React Native, ExpressJS, NodeJS, DynamoDB, JEST, JUnit, Postman, Linux, Selenium, Cypress AWS 
+**Technologies**:  ReactJS, React Native, ExpressJS, NodeJS, DynamoDB, JEST, JUnit, Postman, Linux, Selenium, Cypress, AWS 
 
 **Certifications**: AWS Developer Associate (Amazon Web Services), AWS Cloud Practitioner (Amazon Web Services), Professional Scrum Master I (Scrum.org), Lead 360 Blueprint (Northeastern University) 
 
