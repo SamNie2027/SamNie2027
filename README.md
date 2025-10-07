@@ -57,7 +57,10 @@ Technologies: React Native, ExpressJS, AWS DynamoDB, NodeJS, JEST
 - Working with AWS cloud and DynamoDB database
 - Utilized **Postman** to cover 100% of backend endpoints, created Github Actions CI/CD to incorporate tests
 - Tested backend using **JEST** with 98% Stryker coverage, incorporated into Github Actions CI/CD
-- Created **Cypress** tests for end-to-end user flows, enabling automated UI checks in CI/CD 
+- Created **Cypress** tests for end-to-end user flows, enabling automated UI checks in CI/CD
+
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/7245eab3-fbfc-46d3-9948-5889f92de6c4" />
+
 
 ### Husky Overflow (Oct 2024 - Dec 2024)
 (no link as this repository is private)
