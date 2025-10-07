@@ -59,7 +59,7 @@ Technologies: React Native, ExpressJS, AWS DynamoDB, NodeJS, JEST
 - Tested backend using **JEST** with 98% Stryker coverage, incorporated into Github Actions CI/CD
 - Created **Cypress** tests for end-to-end user flows, enabling automated UI checks in CI/CD
 
-<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/7245eab3-fbfc-46d3-9948-5889f92de6c4" />
+<img width="250" height="450" alt="image" src="https://github.com/user-attachments/assets/fffb68dc-f9b3-46df-8eba-87d68e3266a3" />
 
 
 ### Husky Overflow (Oct 2024 - Dec 2024)
@@ -98,6 +98,10 @@ This app started as a Oasis project (semester-long mentored team project) where 
  - Dynamic web pages and user feedback using PHP in creative ways
   
  - Thorough documentation
+
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/d189f341-c2b1-4072-99e4-08539dc49935" />
+
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/1e4cfec9-1545-4450-80bf-a92ff82918c9" />
 
 
 
