@@ -65,8 +65,6 @@ A better alternative to Canvas for connecting with other people in the same clas
 
 Technologies: HTML, CSS, Javascript, Bootstrap 5, SQL (mySQL), PHP
 
-This app started as a Oasis project (semester-long mentored team project) where we made some progress, unfortunately did not reach minimum viable product at this point. During the summer I turned it into my personal project after my teammates got busy and completed the MVP.
-
 <ins>My contributions as project manager and full-stack developer:</ins>
 
 * Led ideation meetings to draft concept and user flow
