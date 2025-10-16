@@ -18,7 +18,7 @@ Zealous for knowledge to evolve leadership and technical skills.
 
 ## Projects
 
-### Ray (Oct 2025)
+### Ray - GNEC Hackathon (Oct 2025)
 
 https://github.com/SamNie2027/Ray
 
