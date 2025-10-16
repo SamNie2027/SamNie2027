@@ -24,6 +24,10 @@ https://github.com/Code-4-Community/fcc
 
 We are developing a new donation page and admin portal for Fenway Community Center to improve donor retention and reuptake.
 
+<ins>My contributions so far as a backend developer:</ins>
+- Wrote Donation Entity and handled TypeORM migrations to our PostgreSQL database in our Docker container
+- Integrating ExpressJS backend with Stripe API to handle donations
+
 Technologies: ReactJS, ExpressJS, NodeJS, PostgreSQL
 
 ### TattleTell - InnovAIte Finalist (Feb 2025)
