@@ -18,6 +18,18 @@ Zealous for knowledge to evolve leadership and technical skills.
 
 ## Projects
 
+### Ray (Oct 2025)
+
+https://github.com/SamNie2027/Ray
+
+A hackathon project that gamified the process of donating to make charitable giving more engaging and rewarding.
+
+<ins>My contributions as an AI-accelerated backend developer:</ins>
+- Applied prompt engineering using the RACE framework (Role, Action, Context, Expectation) to guide AI-generated code effectively.
+- Used GitHub Copilot to create and run Jest tests, ensuring reliability and functionality of core features.
+- Leveraged Copilot to write mocks and endpoints with documentation, accelerating backend development.
+- Strengthened skills in reviewing and refining AI-generated code, providing feedback to improve software architecture and align with best development practices.
+
 ### Fenway Community Center Donation and Admin Portal - Code4Community (Sept 2025 - Present)
 
 https://github.com/Code-4-Community/fcc
