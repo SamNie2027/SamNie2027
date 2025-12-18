@@ -23,7 +23,7 @@ Zealous for knowledge to evolve leadership and technical skills.
 
 [https://github.com/Code-4-Community/fcc](https://github.com/Code-4-Community/fcc)
 
-We are developing a new donation page and admin portal for Fenway Community Center to improve donor retention and reuptake.
+A new donation technical system and admin portal for Fenway Community Center to improve donor retention and reuptake.
 
 Technologies: ReactJS, ExpressJS, NestJS, NodeJS, PostgreSQL, JEST, TypeORM, Stripe API
 
