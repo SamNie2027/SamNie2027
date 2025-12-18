@@ -34,6 +34,19 @@ Technologies: ReactJS, ExpressJS, NestJS, NodeJS, PostgreSQL, JEST, TypeORM, Str
 * Testing & Quality: Expanded test coverage with unit/integration/e2e suites, including donations.e2e-spec.ts, donations.controller.spec.ts, payments.service.spec.ts, and mappers.spec.ts; updated jest.config.ts.
 * API Surface & Validation: Delivered 6 REST endpoints total (4 donations + 2 payments), 3+ migrations, 3+ DTOs, and mapper utilities; tightened input validation for payment intents/subscriptions and improved error handling to harden the API.
 
+### Agentic Northeastern University Course Search (Oct 2025 - Dec 2025)
+
+[https://github.com/SamNie2027/Search_NEU_agentic](https://github.com/SamNie2027/Search_NEU_agentic)
+
+Technologies: Python, PyTorch, FastAPI, Semantic Embeddings, Sentence Transformers, Agent Workflows (ReAct)
+
+<ins>My contributions as a model developer:</ins>
+
+* Built hybrid course search blending keyword and semantic matching to surface top 3 results from 5.5k courses
+* Implemented agent-guided assistant with automatic search strategy selection using deterministic decoding and 6-step max for consistent, fast responses
+* Generated 768-dim vector embeddings for all courses using sentence-transformers in precompute pipeline to improve search responsiveness under load
+* Added verification tests and scripts to validate embeddings and data integrity, increasing demo stability
+* Designed prompt routing logic to direct code-like queries to keyword search and conversational queries to semantic search
 
 ### Shelter Link - Code4Community (Jan 2025 - June 2025)
 
