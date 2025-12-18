@@ -99,7 +99,23 @@ Technologies: HTML, CSS, Javascript, Bootstrap 5, SQL (mySQL), PHP
 
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/1e4cfec9-1545-4450-80bf-a92ff82918c9" />
 
-## 🚀 Hackathon & Experimental Projects
+## 🚀 Hackathon, Experimental, and Learning Projects
+
+### Scholarly Mail (Oct 2025 - Present)
+
+[https://github.com/SamNie2027/ScholarlyMail2](https://github.com/SamNie2027/ScholarlyMail2)
+
+A Spring Boot service for managing scholarly articles built mainly to explore Java and DevOps practices
+
+Technologies: Java, Maven, Spring Boot, Couchbase, MongoDB, JUnit 5, Docker, Docker Compose, Jenkins
+
+<ins>My contributions as a solo backend developer:</ins>
+
+* Built Spring Boot RESTful API for scholarly article management with CRUD operations and read-state toggle
+* Migrated persistence layer from MongoDB to Couchbase using Spring Data Couchbase and dynamic properties
+* Wrote JUnit 5 integration tests with MockMvc and Testcontainers for real Couchbase instances with CI-safe guards
+* Dockerized application and services with Compose orchestration and Couchbase init scripts for reproducible environments
+* Implemented Jenkins CI/CD pipeline with Docker-based Maven agents and Maven Wrapper for automated builds
 
 ### Ray - GNEC Hackathon (Oct 2025)
 
