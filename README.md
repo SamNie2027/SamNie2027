@@ -38,6 +38,8 @@ Technologies: ReactJS, ExpressJS, NestJS, NodeJS, PostgreSQL, JEST, TypeORM, Str
 
 [https://github.com/SamNie2027/Search_NEU_agentic](https://github.com/SamNie2027/Search_NEU_agentic)
 
+An AI-powered course search tool for Northeastern University undergrad students that uses TF-IDF, semantic embeddings, and ReAct agents to help students find relevant courses.
+
 Technologies: Python, PyTorch, FastAPI, Semantic Embeddings, Sentence Transformers, Agent Workflows (ReAct)
 
 <ins>My contributions as a model developer:</ins>
