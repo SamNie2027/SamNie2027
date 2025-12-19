@@ -1,7 +1,7 @@
 # Sam Nie
 
 ## About
-Developer @ Code4Community | RTC member | AWS Certified Developer Associate and Professional Scrum Master | CS and Cognitive Psych at Northeastern University
+Incoming DevOps Intern @ Wolters Kluwer | Incoming Tech Lead @ Code4Community | RTC member | AWS Certified Developer and Professional Scrum Master | CS and Cognitive Psych at Northeastern University
 
 Undergraduate Junior pursuing a B.S. in Computer Science and Cognitive Psychology @ Northeastern University 
 
@@ -11,11 +11,11 @@ Zealous for knowledge to evolve leadership and technical skills.
 
 **Programming Languages**: Java, HTML, CSS, Typescript, JavaScript, SQL, Python, PHP 
 
-**Technologies**:  ReactJS, React Native, ExpressJS, NodeJS, DynamoDB, JEST, JUnit, Postman, Linux, Selenium, Cypress, AWS 
+**Technologies**:  ReactJS, React Native, ExpressJS, NodeJS, DynamoDB, JEST, JUnit, Postman, Linux, Selenium, Cypress, AWS, Azure, Github Actions CICD, Jenkins, Docker, Docker Compose, Linux, Windows
 
 **Certifications**: AWS Developer Associate (Amazon Web Services), AWS Cloud Practitioner (Amazon Web Services), Professional Scrum Master I (Scrum.org), Lead 360 Blueprint (Northeastern University) 
 
-
+[LinkedIn]{https://www.linkedin.com/in/sam-nie-460a02293/}
 
 ## 🏆 Featured Projects
 
