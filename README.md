@@ -27,10 +27,10 @@ Technologies: ReactJS, ExpressJS, NestJS, NodeJS, PostgreSQL, JEST, TypeORM, Str
 
 <ins>My contributions so far as a backend developer:</ins>
 
-* Stripe Payments: Implemented end-to-end Stripe flows in NestJS with 2 REST endpoints (intent, webhook) in payments.controller.ts, service logic in payments.service.ts, 3+ DTOs in dtos, and mapping utilities in mappers.ts; authored documentation in STRIPE.MD and added unit tests.
+* Stripe Payments: Implemented end-to-end Stripe flows in NestJS with 2 REST endpoints (intent, webhook) in payments.controller.ts, service logic in payments.service.ts, and mapping utilities in mappers.ts; authored documentation in STRIPE.MD and added unit tests.
 * Donations Domain: Modeled the Donation entity donation.entity.ts, wired TypeORM in data-source.ts, and shipped 3+ migrations for users/donations in migrations; exposed 4 API endpoints in donations.controller.ts with service logic in donations.service.ts.
 * Testing & Quality: Expanded test coverage with unit/integration/e2e suites, including donations.e2e-spec.ts, donations.controller.spec.ts, payments.service.spec.ts, and mappers.spec.ts; updated jest.config.ts.
-* API Surface & Validation: Delivered 6 REST endpoints total (4 donations + 2 payments), 3+ migrations, 3+ DTOs, and mapper utilities; tightened input validation for payment intents/subscriptions and improved error handling to harden the API.
+* API Surface & Validation: Delivered 2 REST endpoints total, 2+ migrations, 3+ DTOs, and mapper utilities; tightened input validation for payment intents/subscriptions and improved error handling to harden the API.
 
 ### Agentic Northeastern University Course Search (Oct 2025 - Dec 2025)
 
