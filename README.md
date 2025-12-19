@@ -1,6 +1,4 @@
 # Sam Nie
-
-## About
 Incoming DevOps Intern @ Wolters Kluwer | Incoming Tech Lead @ Code4Community | RTC member | AWS Certified Developer and Professional Scrum Master | CS and Cognitive Psych at Northeastern University
 
 Undergraduate Junior pursuing a B.S. in Computer Science and Cognitive Psychology @ Northeastern University 
