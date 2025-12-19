@@ -15,7 +15,7 @@ Zealous for knowledge to evolve leadership and technical skills.
 
 **Certifications**: AWS Developer Associate (Amazon Web Services), AWS Cloud Practitioner (Amazon Web Services), Professional Scrum Master I (Scrum.org), Lead 360 Blueprint (Northeastern University) 
 
-[LinkedIn]{https://www.linkedin.com/in/sam-nie-460a02293/}
+[LinkedIn](https://www.linkedin.com/in/sam-nie-460a02293/)
 
 ## 🏆 Featured Projects
 
