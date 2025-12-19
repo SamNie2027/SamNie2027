@@ -48,6 +48,8 @@ Technologies: Python, PyTorch, FastAPI, Semantic Embeddings, Sentence Transforme
 * Added verification tests and scripts to validate embeddings and data integrity, increasing demo stability
 * Designed prompt routing logic to direct code-like queries to keyword search and conversational queries to semantic search
 
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/ffea74f4-a4d5-4f88-bf27-7c54c6ea662e" />
+
 ### Shelter Link - Code4Community (Jan 2025 - June 2025)
 
 [https://github.com/Code-4-Community/shelter-link](https://github.com/Code-4-Community/shelter-link)
