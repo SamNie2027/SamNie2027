@@ -102,7 +102,7 @@ Technologies: HTML, CSS, Javascript, Bootstrap 5, SQL (mySQL), PHP
 
 ## 🚀 Hackathon, Experimental, and Learning Projects
 
-### Scholarly Mail (Oct 2025 - Present)
+### Scholarly Mail (Oct 2025 - Nov 2025)
 
 [https://github.com/SamNie2027/ScholarlyMail2](https://github.com/SamNie2027/ScholarlyMail2)
 
