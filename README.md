@@ -40,13 +40,14 @@ An AI-powered course search tool for Northeastern University undergrad students 
 
 Technologies: Python, PyTorch, FastAPI, Semantic Embeddings, Sentence Transformers, Agent Workflows (ReAct)
 
-<ins>My contributions as a model developer:</ins>
+<ins>My contributions as a model developer and project manager:</ins>
 
 * Built hybrid course search blending keyword and semantic matching to surface top 3 results from 5.5k courses
 * Implemented agent-guided assistant with automatic search strategy selection using deterministic decoding and 6-step max for consistent, fast responses
 * Generated 768-dim vector embeddings for all courses using sentence-transformers in precompute pipeline to improve search responsiveness under load
 * Added verification tests and scripts to validate embeddings and data integrity, increasing demo stability
 * Designed prompt routing logic to direct code-like queries to keyword search and conversational queries to semantic search
+* Lead planning meetings to plan out work using KanBan
 
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/ffea74f4-a4d5-4f88-bf27-7c54c6ea662e" />
 
