@@ -22,7 +22,7 @@ Zealous for knowledge to evolve leadership and technical skills.
 
 An application tracking and email automation system for Boston Health Care for the Homeless Program to consolidate resources and save time.
 
-Technoliges: ExpressJS, NestJS, JEST, TypeORM, Postman, PostgreSQL
+Technologies: ExpressJS, NestJS, JEST, TypeORM, Postman, PostgreSQL
 
 <ins>My contributions so far as a Technical Lead:</ins>
 * Re-architected entire backend application and authentication system
