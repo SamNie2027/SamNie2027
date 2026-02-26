@@ -9,13 +9,31 @@ Zealous for knowledge to evolve leadership and technical skills.
 
 **Programming Languages**: Java, HTML, CSS, Typescript, JavaScript, SQL, Python, PHP 
 
-**Technologies**:  ReactJS, React Native, ExpressJS, NodeJS, DynamoDB, JEST, JUnit, Postman, Linux, Selenium, Cypress, AWS, Azure, Github Actions CICD, Jenkins, Docker, Docker Compose, Linux, Windows
+**Technologies**:  ReactJS, React Native, ExpressJS, NodeJS, DynamoDB, Numpy, Pytorch, JEST, JUnit, Postman, Linux, Selenium, Cypress, AWS, Azure, Github Actions CICD, Jenkins, Docker, Linux, Windows,
 
 **Certifications**: AWS Developer Associate (Amazon Web Services), AWS Cloud Practitioner (Amazon Web Services), Professional Scrum Master I (Scrum.org), Lead 360 Blueprint (Northeastern University) 
 
 [LinkedIn](https://www.linkedin.com/in/sam-nie-460a02293/)
 
 ## 🏆 Featured Projects
+
+### Boston Health Care for the Homeless Program - Application Management Portal (Dec 2025 - Present)
+[https://github.com/Code-4-Community/proj-bhchp](https://github.com/Code-4-Community/proj-bhchp)
+
+An application tracking and email automation system for Boston Health Care for the Homeless Program to consolidate resources and save time.
+
+Technoliges: ExpressJS, NestJS, JEST, TypeORM, Postman, PostgreSQL
+
+<ins>My contributions so far as a Technical Lead:</ins>
+* Re-architected entire backend application and authentication system
+* Leading architecture review meetings with members and one-on-one technical assistance
+* Enhanced Unit Testing quality through enforcing edge cases and more eror handling testing
+* Enforcing end-to-end Postman API testing with a real database.
+* Created Github Actions CICD pipeline to run parallel build and unit testing pipelines for fast feedback
+* Added JSDoc-Style documentation to the entire backend and introduced enforcement of documentation for BHCHP
+* Reviewed pull requests and wrote tickets
+* Served as point-of-contact for technical questions by junior developers
+
 
 ### Fenway Community Center Donation System - Code4Community (Sept 2025 - Dec 2025)
 
@@ -25,7 +43,7 @@ A new donation technical system and admin portal for Fenway Community Center to 
 
 Technologies: ReactJS, ExpressJS, NestJS, NodeJS, PostgreSQL, JEST, TypeORM, Stripe API
 
-<ins>My contributions so far as a backend developer:</ins>
+<ins>My contributions as a backend developer:</ins>
 
 * Stripe Payments: Implemented end-to-end Stripe flows in NestJS with 2 REST endpoints (intent, webhook) in payments.controller.ts, service logic in payments.service.ts, and mapping utilities in mappers.ts; authored documentation in STRIPE.MD and added unit tests.
 * Donations Domain: Modeled the Donation entity donation.entity.ts, wired TypeORM in data-source.ts, and shipped 3+ migrations for users/donations in migrations; exposed 4 API endpoints in donations.controller.ts with service logic in donations.service.ts.
