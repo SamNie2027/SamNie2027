@@ -1,9 +1,10 @@
 # Sam Nie
-DevOps CloudSRE @ Wolters Kluwer | Tech Lead @ Code4Community | RTC member | AWS Certified Developer and Professional Scrum Master | CS and Cognitive Psych at Northeastern University
+DevOps Platform Team @ Oakmore Labs | Tech Lead @ Code4Community | RTC member | AWS Certified Developer and Professional Scrum Master | CS and Cognitive Psych at Northeastern University
 
-Undergraduate Junior pursuing a B.S. in Computer Science and Cognitive Psychology @ Northeastern University 
+Undergraduate Senior pursuing a B.S. in Computer Science and Cognitive Psychology @ Northeastern University 
 
-Former Quality Assurance Tester Co-Op at the Massachusetts Medical Society (New England Journal of Medicine)
+Former DevOps CloudSRE @ Wolters Kluwer
+Former Quality Assurance Tester Co-Op @ Massachusetts Medical Society (New England Journal of Medicine)
 
 Zealous for knowledge to evolve leadership and technical skills.
 
