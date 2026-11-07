@@ -1,5 +1,5 @@
 # Sam Nie
-DevOps Platform Team @ Oakmore Labs | Tech Lead @ Code4Community | RTC member | AWS Certified Developer and Professional Scrum Master | CS and Cognitive Psych at Northeastern University
+Platform Engineer @ Oakmore Labs | Tech Lead @ Code4Community | RTC member | AWS Certified Developer and Professional Scrum Master | CS and Cognitive Psych at Northeastern University
 
 Undergraduate Senior pursuing a B.S. in Computer Science and Cognitive Psychology @ Northeastern University 
 
@@ -8,9 +8,9 @@ Former Quality Assurance Tester Co-Op @ Massachusetts Medical Society (New Engla
 
 Zealous for knowledge to evolve leadership and technical skills.
 
-**Programming Languages**: Java, HTML, CSS, Typescript, JavaScript, SQL, Python, PHP 
+**Languages & Frameworks**: Java, JUnit, HTML, CSS, Typescript, JavaScript, SQL, Python, ReactJS, React Native, NodeJS, Python, Java, MongoDB 
 
-**Technologies**:  ReactJS, React Native, ExpressJS, NodeJS, DynamoDB, Numpy, Pytorch, JEST, JUnit, Postman, Linux, Selenium, Cypress, AWS, Azure, Github Actions CICD, Jenkins, Docker, Linux, Windows,
+**Technologies**:  Kubernetes, Docker, ArgoCD, Helm, Azure, AWS, Oracle Cloud (OCI), PostgreSQL, CI/CD (BitBucket, GitHub), Terraform 
 
 **Certifications**: AWS Developer Associate (Amazon Web Services), AWS Cloud Practitioner (Amazon Web Services), Professional Scrum Master I (Scrum.org), Lead 360 Blueprint (Northeastern University) 
 
@@ -18,12 +18,12 @@ Zealous for knowledge to evolve leadership and technical skills.
 
 ## 🏆 Featured Projects
 
-### Boston Health Care for the Homeless Program - Application Management Portal (Dec 2025 - Present)
+### Boston Health Care for the Homeless Program - Application Management Portal (Dec 2025 - June 2025)
 [https://github.com/Code-4-Community/proj-bhchp](https://github.com/Code-4-Community/proj-bhchp)
 
 An application tracking and email automation system for Boston Health Care for the Homeless Program to consolidate resources and save time.
 
-Technologies: ExpressJS, NestJS, JEST, TypeORM, Postman, PostgreSQL
+Technologies: ExpressJS, NestJS, JEST, TypeORM, Postman, PostgreSQL, CloudFormation, AWS
 
 <ins>My contributions so far as a Technical Lead:</ins>
 * Re-architected entire backend application and authentication system
