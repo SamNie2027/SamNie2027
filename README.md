@@ -18,6 +18,21 @@ Zealous for knowledge to evolve leadership and technical skills.
 
 ## 🏆 Featured Projects
 
+### Fenway Health Resource Management System - Code4Community (Sept 2026 - Present)
+
+[https://github.com/Code-4-Community/proj-fh](https://github.com/Code-4-Community/proj-fh)
+
+A platform for managing food and housing resources, staff submissions, and administrative review workflows.
+
+Technologies: ReactJS, NestJS, PostgreSQL, TypeORM, AWS Cognito, Terraform, Docker, Jest
+
+<ins>My contributions so far as a Technical Lead:</ins>
+
+* Co-led client and IT meetings to shape project specifications and scope, and planned an infrastructure-as-code handoff across AWS environments
+* Led backend architecture work for resource, tag, and review workflows, including data migrations and tests
+* Shaped the staff and admin frontend structure, including separate navigation, protected routes, and staff submission pages
+* Contributed to AWS Cognito configuration and developer access workflows
+
 ### Boston Health Care for the Homeless Program - Application Management Portal (Dec 2025 - June 2025)
 [https://github.com/Code-4-Community/proj-bhchp](https://github.com/Code-4-Community/proj-bhchp)
 
@@ -25,7 +40,7 @@ An application tracking and email automation system for Boston Health Care for t
 
 Technologies: ExpressJS, NestJS, JEST, TypeORM, Postman, PostgreSQL, CloudFormation, AWS
 
-<ins>My contributions so far as a Technical Lead:</ins>
+<ins>My contributions as a Technical Lead:</ins>
 * Re-architected entire backend application and authentication system
 * Leading architecture review meetings with members and one-on-one technical assistance
 * Enhanced Unit Testing quality through enforcing edge cases and more eror handling testing
